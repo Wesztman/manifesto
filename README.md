@@ -1,8 +1,8 @@
 _A couple of things to think about when working with code._
 
-## **Look at your code through the eyes of your users.**
+## **Look at your code through the eyes of your users/customer.**
 
-Always question the usefulness of the code you deliver. Try to imagine you´re the user of the library your writing. Would you be happy to use the functions you provide? Is it understandable?
+Always question the usefulness of the code you deliver. Try to imagine you´re the user of the library your writing. Would you be happy to use the functions you provide? Is it understandable? Internal customers are also customers.
 
 ## **Every row of code should have a purpose.**
 
